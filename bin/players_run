@@ -1,4 +1,7 @@
 #!/usr/bin/env ruby
 
 require_relative '../lib/players'
-require
+
+
+puts "hello"
+CLI.new.run
